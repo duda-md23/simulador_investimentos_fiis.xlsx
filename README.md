@@ -1,12 +1,10 @@
-# simulador_investimentos_fiis.xlsx
+# Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
-# 🏢 Simulador de Investimentos em Fundos Imobiliários (FIIs)
-
-Projeto desenvolvido como parte do laboratório prático da formação na [Digital Innovation One (DIO)](https://www.dio.me/). O objetivo é fornecer uma ferramenta interativa e automatizada construída no Microsoft Excel para projeção de acúmulo patrimonial e geração de renda passiva com Fundos de Investimento Imobiliário.
+O objetivo é fornecer uma ferramenta interativa e automatizada construída no Microsoft Excel para projeção de acúmulo patrimonial e geração de renda passiva com Fundos de Investimento Imobiliário.
 
 ---
 
-## 🎯 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 A ferramenta simula a mecânica dos juros compostos aplicada ao ecossistema de FIIs, permitindo ao investidor responder a perguntas estratégicas:
 - Quanto terei acumulado após determinado período de aportes?
@@ -16,7 +14,7 @@ A ferramenta simula a mecânica dos juros compostos aplicada ao ecossistema de F
 
 ---
 
-## ⚙️ Funcionalidades e Parâmetros
+## Funcionalidades e Parâmetros
 
 A planilha opera com entradas dinâmicas e fórmulas automatizadas:
 
@@ -37,7 +35,7 @@ A planilha opera com entradas dinâmicas e fórmulas automatizadas:
 
 ---
 
-## 📊 Fórmulas e Lógica Aplicada
+## Fórmulas e Lógica Aplicada
 
 1. **Rendimento Mensal:**
    $$\text{Rendimento}_t = \text{Patrimônio Inicial}_t \times \text{DY Mensal}$$
